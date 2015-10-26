@@ -1,0 +1,5 @@
+R_vfs,R_area_m,R_area_v,P_pores_m,P_pores_v,P_rc_m,P_rc_v, 
+R_comp_s,R_eccen_m,R_eccen_k,R_els_k,P_ornang_m,P_ornang_s,P_ornang_k,P_rctan_m,P_rctan_v,P_rctan_s,P_rctan_k,P_rnds_s,P_rnds_k,P_ttst_m,P_ttst_v,P_ttst_s,P_ttst_k
+R_comp_v,R_eccen_v,R_els_v,R_els_s,P_nbd_m,P_nbd_v,P_ncd_m,P_ncd_v,P_rnds_v, 
+R_comp_m,R_eccen_s,R_els_m,P_nbd_s,P_nbd_k,P_ncd_s,P_ncd_k,P_ornang_v,P_rnds_m, 
+R_n,R_intph0,R_intph1,R_area_s,R_area_k,R_comp_k,P_locvf_m,P_locvf_v,P_locvf_s,P_locvf_k,P_pores_s,P_pores_k,P_rc_s,P_rc_k, 
